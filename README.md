@@ -7,9 +7,15 @@
 - [ Java](#java)
 	- [ 基础](#javajichu)
 	- [ 并发](#javabingfa)
+	- [网络](#javanet)
 	- [架构](#javajiagou)
+	- [性能优化](#javatiaoyou)
+	- [框架](#javaframe)
 - [ Python](#python)
 - [ 数据库](#database)
+  - [Oracle](#databaseoracle)
+  - [MySQL](#databaseMySQL)
+  - [Redis](#databaseredis)
 - [ Linux](#linux)
 - [ 设计模式](#designPatterns)
 - [ 算法](#algorithm)
@@ -26,15 +32,43 @@
 
 Java核心技术卷一基础知识第10版  <a href="https://pan.baidu.com/s/1TKhgRzCAFQ8SZy3RkLVfsg">百度云链接</a>  提取码：cfo1
 
+Java核心技术卷二基础知识第10版  <a href="https://pan.baidu.com/s/19Jp--Qvwq0HvQy-SfsADaw">百度云链接</a>  提取码：6zsc
+
+疯狂java讲义  <a href="https://pan.baidu.com/s/1i3gWUYJCRI4-a8uRx7sDjQ">百度云链接</a>  提取码：27o9
+
+Java编程思想第4版  <a href="https://pan.baidu.com/s/1nceCR5ZHJMXY-q3WqDWYFg">百度云链接</a>  提取码：r2hv
+
+Effective Java中文版第3版  <a href="https://pan.baidu.com/s/1-PptYA069B7FWGEipqhckg">百度云链接</a>  提取码：2sph
+
+Java 8实战  <a href="https://pan.baidu.com/s/1zc0-JwFCX5djQfWybmy6jw">百度云链接</a>  提取码：iw7c
+
+Thinking In Java 4  <a href="https://pan.baidu.com/s/1hfnqm91RIEtE986cV_n_iA">百度云链接</a>  提取码：oswd
+
+
+
 
 
 ### <span id="javabingfa"> 并发</span>
 
 Java并发编程的艺术    <a href="https://pan.baidu.com/s/1OkkxV3YRyLpuXrt-wrVdVw">百度云链接</a>   提取码：0znl
 
+Java高并发编程详解  <a href="https://pan.baidu.com/s/1Q2sRa68ghDKTW59W3JKttQ">百度云链接</a>  提取码：aqit
 
 
-### <span id="javajiagou"> 架构</span>
+
+
+
+### <span id="javanet"> 网络</span>
+
+Netty源码剖析与应用  <a href="https://pan.baidu.com/s/1zX1Syw788eBcYonc9jWcsQ">百度云链接</a>  提取码：s3co
+
+Netty实战  <a href="https://pan.baidu.com/s/15j4t4h2ZqjHrG2vbaN9_Ig">百度云链接</a>  提取码：l3t2
+
+Netty权威指南  <a href="https://pan.baidu.com/s/1N-5klz7MWtBtGLp9Miqo_w">百度云链接</a>  提取码：idod
+
+
+
+### <span id="javajiagou">架构</span>
 
 重学Java设计模式  <a href="https://pan.baidu.com/s/1VythbdKOcyxzIi3dRKvV8w">百度云链接</a>   提取码：5p4v
 
@@ -54,9 +88,19 @@ Java程序的建议  <a href="https://pan.baidu.com/s/152GPrAmjLk0D0TgmqAu3WA">�
 
 
 
+### <span id="javatiaoyou">性能优化</span>
+
+深入理解Java虚拟机 JVM高级特性与最佳实践 第2版  <a href="https://pan.baidu.com/s/1_pIfsxixT5mYYbLRy84SWQ">百度云链接</a>  提取码：ayxf
+
+Java性能权威指南  <a href="https://pan.baidu.com/s/1JSMOVzHgf14cBlmd7X6DTA">百度云链接</a>  提取码：99ox
+
+Java问题定位技术  <a href="https://pan.baidu.com/s/1TkgNo0DtpSfS-O1AO8Coxg">百度云链接</a>  提取码：iybp
 
 
 
+### <span id="javaframe">框架</span>
+
+  <a href="">百度云链接</a>  提取码：
 
 
 
@@ -65,6 +109,28 @@ Java程序的建议  <a href="https://pan.baidu.com/s/152GPrAmjLk0D0TgmqAu3WA">�
 
 
 ## <span id="database"> 数据库</span>
+
+### <span id="databaseoracle">Oracle</span>
+
+Oracle从入门到精通  <a href="https://pan.baidu.com/s/1g-MSBwpoX9t5PVFxK1Gmiw">百度云链接</a>  提取码：m2um
+
+
+
+### <span id="databasemysql">MySQL</span>
+
+高性能MySQL第3版  <a href="https://pan.baidu.com/s/12_rkEiroCHtooqcJIIi3ZQ">百度云链接</a>  提取码：rzwq
+
+
+
+### <span id="databaseredis">Redis</span>
+
+Redis实战  <a href="https://pan.baidu.com/s/1Jv6Ysseavl39mXNk8a8RtQ">百度云链接</a>  提取码：w2u7
+
+Redis入门指南 第2版  <a href="https://pan.baidu.com/s/1L7OCWrKq-SRuN49xvXy9Qg">百度云链接</a>  提取码：6ajm
+
+Redis 设计与实现第二版  <a href="https://pan.baidu.com/s/1dZSEQaBLIG7rUNwQWXgV-Q">百度云链接</a>  提取码：nnv6
+
+
 
 
 
@@ -83,6 +149,8 @@ Java程序的建议  <a href="https://pan.baidu.com/s/152GPrAmjLk0D0TgmqAu3WA">�
 
 
 ## <span id="utils"> 工具、中间件</span>
+
+
 
 
 
